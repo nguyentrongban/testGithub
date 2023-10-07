@@ -1,7 +1,12 @@
 tao test gihub
 
 
+
 thanh test
 
+<<<<<<< HEAD
 day tu thanh len nhanh master
+=======
+test tan
+>>>>>>> 2b98ddef4adb935cd7a96bd3ebf14af45ec52435
 
